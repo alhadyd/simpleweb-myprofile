@@ -2,7 +2,7 @@
 
 # Web Profile Sederhana
 
-Ini adalah **Project Web profile sederhana** saya.<br>Web ini berisi beberapa profil, diantaranya :
+Ini adalah **Project Web profile sederhana** saya.<br>Web ini berisi :
 
 * Biodata
 * Introduction
