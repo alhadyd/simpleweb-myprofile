@@ -14,7 +14,7 @@ _Link Design Figma_ : [Figma Web Profile - Hadyd](https://www.figma.com/file/GCv
 
 ### Screnshoot Design Figma
 
-![Gambar](assets/Image/figma-screnshoot.png)
+![Gambar](assets/Image/figma-profile-screnshoot.png)
 
 ## Dibuat Dengan :
 
