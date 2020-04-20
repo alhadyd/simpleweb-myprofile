@@ -1,5 +1,3 @@
-# project-1-Anur_Al_Hadyd
-
 # Web Profile Sederhana
 
 Ini adalah **Project Web profile sederhana** saya.<br>Web ini berisi :
